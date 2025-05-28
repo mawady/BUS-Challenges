@@ -29,7 +29,7 @@ ResNet18 is used as encoder with ImageNet pretrained weights
 ## Authors
 
 - **Ms. Aamal Alghamdi**  
-  - PhD Student, Department of Computer and Information Sciences, University of Strathclyde*
+  *PhD Student, Department of Computer and Information Sciences, University of Strathclyde*
   
 - **Dr. Mohamed Elawady** — [Supervisor](https://pureportal.strath.ac.uk/en/persons/mohamed-elawady)  
   *Teaching Fellow, Department of Computer and Information Sciences, University of Strathclyde*
