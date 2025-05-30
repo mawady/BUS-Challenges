@@ -50,7 +50,7 @@ Note: ResNet18 [^5] is used as encoder with ImageNet [^6] pretrained weights
 @misc{awady2025buschallenges,
   author       = {Alghamdi, Aamal and Elawady, Mohamed and Abel, Andrew},
   title        = {Challenges in Segmenting Lesions in Breast Ultrasound Images},
-  year         = {2024},
+  year         = {2025},
   howpublished = {\url{https://github.com/mawady/BUS-Challenges}},
   note         = {Accessed: xxxx-xx-xx}
 }
