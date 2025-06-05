@@ -1,0 +1,8 @@
+opencv-python==4.10.0
+torch==2.5.1
+numpy==1.26.4
+albumentations==1.4.20
+matplotlib==3.10.0
+pytorch-lightning==2.5.1
+segmentation-models-pytorch==0.4.1.dev0
+scikit==0.25.2
