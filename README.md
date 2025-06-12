@@ -30,7 +30,7 @@ Note: ResNet18 [^5] is used as encoder with ImageNet [^6] pretrained weights
 ## Authors
 
 - **Ms. Aamal Alghamdi**  
-  *PhD Student, Department of Computer and Information Sciences, University of Strathclyde*
+  *PhD Student, Department of Computer and Information Sciences, University of Strathclyde*  
   Email: [aamal.alghamdi@strath.ac.uk](mailto:aamal.alghamdi@strath.ac.uk)
   
 - **Dr. Mohamed Elawady** — [Supervisor](https://pureportal.strath.ac.uk/en/persons/mohamed-elawady)  
